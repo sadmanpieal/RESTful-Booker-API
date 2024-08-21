@@ -1,4 +1,4 @@
-# Restful Booker API Automation
+# RESTful Booker API Automation
 
 This repository contains automated tests for the Restful Booker API. The tests are written using [Postman](https://www.postman.com/) and executed with [Newman](https://www.npmjs.com/package/newman).
 
